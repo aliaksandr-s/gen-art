@@ -10,4 +10,4 @@
 
 `npm install`
 
-`canvas-sketch sketch.js --output=./png/pie-charts --open`
+`canvas-sketch sketch.js --output=./png --open`
